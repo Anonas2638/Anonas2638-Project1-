@@ -4,7 +4,7 @@
 <head>
    <!--
       Author: Anosha Naseri
-      Date: 05/28/2026
+      Date: 06/01/2026
       File: index.html
    -->
 
@@ -35,6 +35,7 @@
       </nav>
    </header>
 
+   <!-- Main Content -->
    <main>
 
       <!-- About Section -->
@@ -54,7 +55,6 @@
             This section showcases sample web design projects, coding assignments, and coursework throughout this class.
          </p>
 
-         <!-- Project Table -->
          <table>
             <caption>Sample Web Design Projects</caption>
 
@@ -96,11 +96,29 @@
 
       <!-- Contact Section -->
       <section id="contact">
-         <h2>Contact</h2>
+         <h2>Contact Me</h2>
 
          <p>
-            You can contact me through my school email or visit my GitHub profile to view my projects and updates.
+            Please fill out the form below to contact me.
          </p>
+
+         <form class="contact-form" action="#" method="post">
+
+            <label for="senderName">Name</label>
+            <input type="text" id="senderName" name="senderName" required>
+
+            <label for="emailAddress">Email Address</label>
+            <input type="email" id="emailAddress" name="emailAddress" required>
+
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject">
+
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5"></textarea>
+
+            <input type="submit" value="Submit">
+
+         </form>
       </section>
 
    </main>
