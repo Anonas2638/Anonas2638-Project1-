@@ -1,37 +1,34 @@
 # Anonas2638-Project1
 
-## Project Overview
+## Project Description
 
-This project is a responsive personal website created using HTML5 and CSS3. The website demonstrates the use of semantic HTML, responsive design, Flexbox layouts, CSS styling, transitions, tables, and forms.
+This project is a responsive personal website developed using HTML5 and CSS3 for a Web Design course. The website demonstrates the use of semantic HTML elements, CSS styling, responsive layouts, navigation menus, tables, forms, and interactive design features.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- Flexbox
-- GitHub
-- GitHub Pages
-- XAMPP
+* HTML5
+* CSS3
+* GitHub
+* GitHub Pages
+* XAMPP
 
 ## Live Website
 
 https://anonas2638.github.io/Anonas2638-Project1-/
 
-## Local Hosting
+## Features
 
-The project was tested locally using XAMPP. The website files were placed in the htdocs folder and accessed through localhost.
-
-Example URL:
-
-http://localhost/Anonas2638-Project1/index.html
-
-## Screenshot
-
-Insert your XAMPP localhost screenshot below.
-
-![Local Website Screenshot](screenshot.png)
+* Responsive webpage design
+* Navigation menu
+* Contact form
+* Styled table
+* CSS transitions and effects
+* Flexbox layout
 
 ## Author
+
+Anosha
+
 
 Anosha
 
